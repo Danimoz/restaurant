@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/restaurant/static/js/main.5763ebba.chunk.js",
+    "main.js.map": "/restaurant/static/js/main.5763ebba.chunk.js.map",
+    "runtime-main.js": "/restaurant/static/js/runtime-main.9b332c19.js",
+    "runtime-main.js.map": "/restaurant/static/js/runtime-main.9b332c19.js.map",
+    "static/js/2.7d200786.chunk.js": "/restaurant/static/js/2.7d200786.chunk.js",
+    "static/js/2.7d200786.chunk.js.map": "/restaurant/static/js/2.7d200786.chunk.js.map",
+    "static/js/3.dd7060ff.chunk.js": "/restaurant/static/js/3.dd7060ff.chunk.js",
+    "static/js/3.dd7060ff.chunk.js.map": "/restaurant/static/js/3.dd7060ff.chunk.js.map",
+    "index.html": "/restaurant/index.html",
+    "static/js/2.7d200786.chunk.js.LICENSE.txt": "/restaurant/static/js/2.7d200786.chunk.js.LICENSE.txt",
+    "static/media/heroimg.dcb2433e.jpg": "/restaurant/static/media/heroimg.dcb2433e.jpg",
+    "static/media/menu.681c408b.jpg": "/restaurant/static/media/menu.681c408b.jpg",
+    "static/media/product1.4553143c.jpg": "/restaurant/static/media/product1.4553143c.jpg",
+    "static/media/product2.da221a50.jpg": "/restaurant/static/media/product2.da221a50.jpg",
+    "static/media/product3.34c9d879.jpg": "/restaurant/static/media/product3.34c9d879.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b332c19.js",
+    "static/js/2.7d200786.chunk.js",
+    "static/js/main.5763ebba.chunk.js"
+  ]
+}
